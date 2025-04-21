@@ -27,7 +27,6 @@
                     //전투시작
                     break;
                 default:
-                    gameSystem.Message("잘못된 입력입니다.");
                     Start(gameSystem, battleSystem, player);
                     return;
             }
