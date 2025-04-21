@@ -8,23 +8,23 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\user\\.nuget\\packages\\": {},
-    "D:\\VisualStudio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\PC\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Github\\Week3_Team_TextRPG\\TextRPG\\TextRPG_Week3\\TextRPG_Week3.csproj",
+      "projectUniqueName": "C:\\Users\\PC\\Desktop\\개발\\Week3_Team_TextRPG\\TextRPG\\TextRPG_Week3\\TextRPG_Week3.csproj",
       "projectName": "TextRPG_Week3",
-      "projectPath": "D:\\Github\\Week3_Team_TextRPG\\TextRPG\\TextRPG_Week3\\TextRPG_Week3.csproj",
-      "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "D:\\Github\\Week3_Team_TextRPG\\TextRPG\\TextRPG_Week3\\obj\\",
+      "projectPath": "C:\\Users\\PC\\Desktop\\개발\\Week3_Team_TextRPG\\TextRPG\\TextRPG_Week3\\TextRPG_Week3.csproj",
+      "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\PC\\Desktop\\개발\\Week3_Team_TextRPG\\TextRPG\\TextRPG_Week3\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "D:\\VisualStudio\\Shared\\NuGetPackages"
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -72,7 +72,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
