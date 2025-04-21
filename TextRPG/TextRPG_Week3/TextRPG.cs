@@ -1,4 +1,6 @@
-﻿namespace TextRPG_Week3
+﻿using System;
+
+namespace TextRPG_Week3
 {
     internal class TextRPG
     {
