@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Github\\Week3_TeamProject_TextRPG\\TextRPG\\TextRPG_Week3\\TextRPG_Week3.csproj": {}
+    "D:\\Github\\Week3_Team_TextRPG\\TextRPG\\TextRPG_Week3\\TextRPG_Week3.csproj": {}
   },
   "projects": {
-    "D:\\Github\\Week3_TeamProject_TextRPG\\TextRPG\\TextRPG_Week3\\TextRPG_Week3.csproj": {
+    "D:\\Github\\Week3_Team_TextRPG\\TextRPG\\TextRPG_Week3\\TextRPG_Week3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Github\\Week3_TeamProject_TextRPG\\TextRPG\\TextRPG_Week3\\TextRPG_Week3.csproj",
+        "projectUniqueName": "D:\\Github\\Week3_Team_TextRPG\\TextRPG\\TextRPG_Week3\\TextRPG_Week3.csproj",
         "projectName": "TextRPG_Week3",
-        "projectPath": "D:\\Github\\Week3_TeamProject_TextRPG\\TextRPG\\TextRPG_Week3\\TextRPG_Week3.csproj",
+        "projectPath": "D:\\Github\\Week3_Team_TextRPG\\TextRPG\\TextRPG_Week3\\TextRPG_Week3.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "D:\\Github\\Week3_TeamProject_TextRPG\\TextRPG\\TextRPG_Week3\\obj\\",
+        "outputPath": "D:\\Github\\Week3_Team_TextRPG\\TextRPG\\TextRPG_Week3\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\VisualStudio\\Shared\\NuGetPackages"

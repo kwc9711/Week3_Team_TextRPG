@@ -1,6 +1,6 @@
 ﻿namespace TextRPG_Week3
 {
-    internal class Program
+    internal class TextRPG
     {
         static void Main(string[] args)
         {
