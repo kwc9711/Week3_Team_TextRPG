@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace TextRPG_Week3
 {
-    class BattleSystem
+    public class BattleSystem
     {
 
     }
